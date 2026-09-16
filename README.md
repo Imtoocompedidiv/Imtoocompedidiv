@@ -4,7 +4,7 @@
 
 Je construis des outils qui rendent les opérations quotidiennes plus fiables : préparer des données, connecter des services et retrouver l’information utile. Paris et Lyon, pour des collaborations ponctuelles ou récurrentes.
 
-[Portfolio](https://imtoocompedidiv.github.io/portfolio/) · [Me contacter](mailto:187574710+Imtoocompedidiv@users.noreply.github.com)
+[Portfolio](https://imtoocompedidiv.github.io/portfolio/) · [Me contacter](https://imtoocompedidiv.github.io/portfolio/#contact)
 
 ## Projet phare : Reprise
 
