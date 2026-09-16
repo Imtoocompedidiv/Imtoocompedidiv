@@ -6,7 +6,17 @@ Je construis des outils qui rendent les opérations quotidiennes plus fiables : 
 
 [Portfolio](https://imtoocompedidiv.github.io/portfolio/) · [Me contacter](mailto:187574710+Imtoocompedidiv@users.noreply.github.com)
 
-## Trois outils à essayer
+## Projet phare : Reprise
+
+[![Reprise — rapprochement de bordereaux Excel](https://raw.githubusercontent.com/Imtoocompedidiv/reprise/main/public/preview.png)](https://imtoocompedidiv.github.io/reprise/)
+
+**Reporter un chiffrage dans un bordereau révisé, sans décaler les prix.** Reprise compare l’ancien modèle, l’offre chiffrée et le nouveau modèle. Les changements sont arbitrés avant un export XLSX contrôlé : formules, styles et cellules hors prix sont préservés.
+
+TypeScript · OOXML · Affectation globale · Web Worker · SHA-256 · 31 tests
+
+[Essayer Reprise](https://imtoocompedidiv.github.io/reprise/) · [Code et architecture](https://github.com/Imtoocompedidiv/reprise)
+
+## Trois autres outils à essayer
 
 <table>
 <tr>
